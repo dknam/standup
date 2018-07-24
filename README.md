@@ -1,5 +1,5 @@
 # standup
-
+https://github.com/ehrudxo/standup
 
 git init
 
